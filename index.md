@@ -1,5 +1,6 @@
 # よこそ　to My (zeta-)thinking World.
-![Thinking gif](thinking.gif)
+<img src="thinking.gif" alt="Thinking gif" width="400"/>
+
 ### Thank you for visiting. You will enjoy my thoughts. 
 
 **Can you handle infinity? Below is a example how to handle:**
