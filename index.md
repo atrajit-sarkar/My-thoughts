@@ -1,3 +1,5 @@
+# よこそ　to My (zeta-)thinking World.
+![Thinking gif](thinking.gif)
 ### Thank you for visiting. You will enjoy my thoughts. 
 
 **Can you handle infinity? Below is a example how to handle:**
