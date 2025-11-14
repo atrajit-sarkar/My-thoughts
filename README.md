@@ -1,2 +1,2 @@
 ## Contents
-1.[Elementary Number Theory](elementary-number-theory-david-M-Burton.pdf)
+1.[Elementary Number Theory David M. Burton](elementary-number-theory-david-M-Burton.pdf)
